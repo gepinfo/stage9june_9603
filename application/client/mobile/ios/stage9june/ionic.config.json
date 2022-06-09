@@ -1,0 +1,7 @@
+{
+  "name": "stage9june",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
